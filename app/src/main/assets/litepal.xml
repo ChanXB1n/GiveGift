@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="TLP"></dbname>
+
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.example.chan.firstlevelproject.Account"></mapping>
+        <mapping class="com.example.chan.firstlevelproject.Wishes"></mapping>
+    </list>
+</litepal>
